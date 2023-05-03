@@ -16,6 +16,13 @@ app.get('/chefData', (req, res) => {
     res.send(chefData)
 })
 
+app.get('/chefData/:id', (req, res) => {
+    const id = req.params.id;
+    const currentData = chefData.find(d => d.id == id)
+    res.send(currentData)
+
+})
+
 
 
 app.listen(port, () => {
