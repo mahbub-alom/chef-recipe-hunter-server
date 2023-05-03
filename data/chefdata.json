@@ -1,102 +1,241 @@
 [
     {
-        "Chef1": {
-            "id": 1,
-            "Picture": "https://example.com/chef1.jpg",
-            "Name": "John Doe",
-            "Years of Experience": 10,
-            "Number of Recipes": 50,
-            "Likes": 1000
-        }
+        "id": 1,
+        "Picture": "https://th.bing.com/th/id/OIP.Dbxakgf8b9bi6Wvuyo4aJAHaJo?pid=ImgDet&rs=1",
+        "Name": "John Doe",
+        "Experience": 10,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ],
+        "Likes": 1000
     },
     {
-        "Chef2": {
-            "id": 2,
-            "Picture": "https://example.com/chef2.jpg",
-            "Name": "Jane Smith",
-            "Years of Experience": 8,
-            "Number of Recipes": 30,
-            "Likes": 500
-        }
+        "id": 2,
+        "Picture": "https://th.bing.com/th/id/OIP.wzUO56s36R5BZtMJx2LTNwHaKJ?pid=ImgDet&rs=1",
+        "Name": "Jane Smith",
+        "Experience": 8,
+        "Recipes": 30,
+        "Likes": 500,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef3": {
-            "id": 3,
-            "Picture": "https://example.com/chef3.jpg",
-            "Name": "Peter Lee",
-            "Years of Experience": 15,
-            "Number of Recipes": 70,
-            "Likes": 2000
-        }
+        "id": 3,
+        "Picture": "https://th.bing.com/th/id/OIP.jYHb6Xn4tW6DGteXLCTm9QAAAA?pid=ImgDet&w=470&h=600&rs=1",
+        "Name": "Peter Lee",
+        "Experience": 15,
+        "Recipes": 70,
+        "Likes": 2000,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef4": {
-            "id": 4,
-            "Picture": "https://example.com/chef4.jpg",
-            "Name": "Linda Chen",
-            "Years of Experience": 5,
-            "Number of Recipes": 20,
-            "Likes": 300
-        }
+        "id": 4,
+        "Picture": "https://th.bing.com/th/id/OIP.B57HkO5dKeB7oRn6Hhl_wwHaJQ?pid=ImgDet&w=561&h=701&rs=1",
+        "Name": "Linda Chen",
+        "Experience": 5,
+        "Recipes": 20,
+        "Likes": 300,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef5": {
-            "id": 5,
-            "Picture": "https://example.com/chef5.jpg",
-            "Name": "Mike Brown",
-            "Years of Experience": 12,
-            "Number of Recipes": 60,
-            "Likes": 1500
-        }
+        "id": 5,
+        "Picture": "https://th.bing.com/th/id/OIP.b4n7kR-2DZDOCpo46MsbKQAAAA?pid=ImgDet&w=333&h=478&rs=1",
+        "Name": "Mike Brown",
+        "Experience": 12,
+        "Recipes": 60,
+        "Likes": 1500,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef6": {
-            "id": 6,
-            "Picture": "https://example.com/chef6.jpg",
-            "Name": "Karen Kim",
-            "Years of Experience": 7,
-            "Number of Recipes": 25,
-            "Likes": 400
-        }
+        "id": 6,
+        "Picture": "https://th.bing.com/th/id/OIP.wCpZ8b5J0DT4Gbd8UjfPdAHaI_?pid=ImgDet&w=280&h=340&rs=1",
+        "Name": "Karen Kim",
+        "Experience": 7,
+        "Recipes": 25,
+        "Likes": 400,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef7": {
-            "id": 7,
-            "Picture": "https://example.com/chef7.jpg",
-            "Name": "David Wu",
-            "Years of Experience": 20,
-            "Number of Recipes": 100,
-            "Likes": 3000
-        }
+        "id": 7,
+        "Picture": "https://th.bing.com/th/id/OIP.XmK7hvketOfp7nEAKe0RfAHaLH?pid=ImgDet&w=334&h=501&rs=1",
+        "Name": "David Wu",
+        "Experience": 20,
+        "Recipes": 100,
+        "Likes": 3000,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef8": {
-            "id": 8,
-            "Picture": "https://example.com/chef8.jpg",
-            "Name": "Sara Kim",
-            "Years of Experience": 3,
-            "Number of Recipes": 10,
-            "Likes": 100
-        }
+        "id": 8,
+        "Picture": "https://th.bing.com/th/id/OIP.mu8uxZz1-MEfUVOyrUojhAHaE9?pid=ImgDet&w=768&h=515&rs=1",
+        "Name": "Sara Kim",
+        "Experience": 3,
+        "Recipes": 10,
+        "Likes": 100,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef9": {
-            "id": 9,
-            "Picture": "https://example.com/chef9.jpg",
-            "Name": "Tom Lee",
-            "Years of Experience": 9,
-            "Number of Recipes": 40,
-            "Likes": 800
-        }
+        "id": 9,
+        "Picture": "https://th.bing.com/th/id/OIP.ZawN3E41ldw_DbhW7WTGwAHaEE?pid=ImgDet&w=1140&h=626&rs=1",
+        "Name": "Tom Lee",
+        "Experience": 9,
+        "Recipes": 40,
+        "Likes": 800,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     },
     {
-        "Chef10": {
-            "id": 10,
-            "Picture": "https://example.com/chef10.jpg",
-            "Name": "Jessica Park",
-            "Years of Experience": 4,
-            "Number of Recipes": 15,
-            "Likes": 200
-        }
+        "id": 10,
+        "Picture": "https://th.bing.com/th/id/OIP.OYOpbOxnHBSvUHfNRFpxFgHaE6?pid=ImgDet&w=1280&h=850&rs=1",
+        "Name": "Jessica Park",
+        "Experience": 4,
+        "Recipes": 15,
+        "Likes": 200,
+        "recipes": [
+            {
+                "name": "Pesto pasta with cherry tomatoes",
+                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "rating": 4.6,
+                "ingredients": [
+                    "Pasta",
+                    "Pesto Sauce",
+                    "Cherry Tomatoes",
+                    "Garlic",
+                    "Parmesan Cheese"
+                ]
+            }
+        ]
     }
 ]
