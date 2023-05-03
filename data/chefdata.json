@@ -1,0 +1,102 @@
+[
+    {
+        "Chef1": {
+            "id": 1,
+            "Picture": "https://example.com/chef1.jpg",
+            "Name": "John Doe",
+            "Years of Experience": 10,
+            "Number of Recipes": 50,
+            "Likes": 1000
+        }
+    },
+    {
+        "Chef2": {
+            "id": 2,
+            "Picture": "https://example.com/chef2.jpg",
+            "Name": "Jane Smith",
+            "Years of Experience": 8,
+            "Number of Recipes": 30,
+            "Likes": 500
+        }
+    },
+    {
+        "Chef3": {
+            "id": 3,
+            "Picture": "https://example.com/chef3.jpg",
+            "Name": "Peter Lee",
+            "Years of Experience": 15,
+            "Number of Recipes": 70,
+            "Likes": 2000
+        }
+    },
+    {
+        "Chef4": {
+            "id": 4,
+            "Picture": "https://example.com/chef4.jpg",
+            "Name": "Linda Chen",
+            "Years of Experience": 5,
+            "Number of Recipes": 20,
+            "Likes": 300
+        }
+    },
+    {
+        "Chef5": {
+            "id": 5,
+            "Picture": "https://example.com/chef5.jpg",
+            "Name": "Mike Brown",
+            "Years of Experience": 12,
+            "Number of Recipes": 60,
+            "Likes": 1500
+        }
+    },
+    {
+        "Chef6": {
+            "id": 6,
+            "Picture": "https://example.com/chef6.jpg",
+            "Name": "Karen Kim",
+            "Years of Experience": 7,
+            "Number of Recipes": 25,
+            "Likes": 400
+        }
+    },
+    {
+        "Chef7": {
+            "id": 7,
+            "Picture": "https://example.com/chef7.jpg",
+            "Name": "David Wu",
+            "Years of Experience": 20,
+            "Number of Recipes": 100,
+            "Likes": 3000
+        }
+    },
+    {
+        "Chef8": {
+            "id": 8,
+            "Picture": "https://example.com/chef8.jpg",
+            "Name": "Sara Kim",
+            "Years of Experience": 3,
+            "Number of Recipes": 10,
+            "Likes": 100
+        }
+    },
+    {
+        "Chef9": {
+            "id": 9,
+            "Picture": "https://example.com/chef9.jpg",
+            "Name": "Tom Lee",
+            "Years of Experience": 9,
+            "Number of Recipes": 40,
+            "Likes": 800
+        }
+    },
+    {
+        "Chef10": {
+            "id": 10,
+            "Picture": "https://example.com/chef10.jpg",
+            "Name": "Jessica Park",
+            "Years of Experience": 4,
+            "Number of Recipes": 15,
+            "Likes": 200
+        }
+    }
+]
