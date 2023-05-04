@@ -70,7 +70,7 @@
             {
                 "name": "Spicy Shrimp Stir-Fry",
                 "description": "This quick and easy stir-fry is packed with flavor, thanks to a spicy sauce made with soy sauce, sriracha, and garlic. The shrimp and vegetables cook up in minutes, making it the perfect dish for a busy weeknight.",
-                "image": "https://www.eatwell101.com/wp-content/uploads/2018/09/Shrimp-Stir-Fry-Recipe.jpg",
+                "image": "https://bing.com/th?id=OSK.14e38f0a16a8fec358f9ab7452451682",
                 "cooking_method": "Heat oil in a wok or large skillet over high heat. Add shrimp and stir-fry for 2-3 minutes until pink. Remove from pan and set aside. Add garlic and vegetables to the pan and stir-fry for 2-3 minutes. Return shrimp to the pan and add the sauce. Stir-fry for an additional minute or until everything is coated in the sauce.",
                 "rating": 4.8,
                 "ingredients": [
@@ -84,7 +84,7 @@
             {
                 "name": "Chicken and Broccoli Casserole",
                 "description": "This comforting casserole is perfect for a chilly night. Tender chicken and broccoli are smothered in a creamy cheese sauce and baked until bubbly and golden.",
-                "image": "https://www.spendwithpennies.com/wp-content/uploads/2019/08/Chicken-Broccoli-Casserole-SpendWithPennies-7.jpg",
+                "image": "https://bing.com/th?id=OSK.bc6d095f2fe1171067e85ac3a0c71349",
                 "cooking_method": "Cook chicken in a skillet until no longer pink. Add broccoli and cook until tender. In a separate saucepan, melt butter and whisk in flour. Gradually stir in milk until sauce thickens. Stir in cheese until melted. Combine chicken, broccoli, and sauce in a casserole dish and bake at 375 degrees F for 20-25 minutes.",
                 "rating": 4.5,
                 "ingredients": [
@@ -99,7 +99,7 @@
             {
                 "name": "Beef and Vegetable Stir-Fry",
                 "description": "This flavorful stir-fry is a great way to get your daily dose of veggies. Tender strips of beef are cooked with colorful bell peppers, onions, and mushrooms in a savory sauce.",
-                "image": "https://www.simplyrecipes.com/wp-content/uploads/2014/07/beef-vegetable-stir-fry-horiz-a-1800.jpg",
+                "image": "https://bing.com/th?id=OSK.d6c19e35bf62bc3d3d4e3313430a4a50",
                 "cooking_method": "Whisk together soy sauce, honey, ginger, and garlic in a bowl. Heat oil in a wok or large skillet over high heat. Add beef and stir-fry for 2-3 minutes until browned. Remove from pan and set aside. Add vegetables to the pan and stir-fry for 2-3 minutes. Return beef to the pan and add the sauce. Stir-fry for an additional minute or until everything is coated in the sauce.",
                 "rating": 4.7,
                 "ingredients": [
@@ -124,17 +124,53 @@
         "Likes": 2000,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "name": "Spaghetti with Meatballs",
+                "description": "A classic Italian dish with homemade meatballs and tangy tomato sauce. Served with spaghetti and grated Parmesan cheese.",
+                "image": "https://bing.com/th?id=AMMS_304ffa23e68afe67f8d6a5d21a27df68",
+                "cooking_method": "In a large bowl, mix together ground beef, breadcrumbs, Parmesan cheese, egg, garlic, salt, and pepper. Form into meatballs and bake in the oven until browned. In a separate pan, simmer canned tomatoes with garlic and spices to make the sauce. Cook spaghetti according to package instructions. Serve meatballs and sauce over spaghetti, and top with grated Parmesan cheese.",
+                "rating": 4.8,
+                "ingredients": [
+                    "Ground beef",
+                    "Breadcrumbs",
+                    "Parmesan cheese",
+                    "Egg",
+                    "Garlic",
+                    "Canned tomatoes",
+                    "Spaghetti"
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "description": "A spicy and aromatic curry made with tender chicken, potatoes, and a blend of Indian spices. Served with fluffy basmati rice.",
+                "image": "https://th.bing.com/th/id/OIP.X71tXMDgd0uGU2phazMj3QHaE8?pid=ImgDet&rs=1",
+                "cooking_method": "In a large pot, cook onions and spices until fragrant. Add chicken and potatoes, and cook until browned. Pour in canned tomatoes and coconut milk, and simmer until the chicken is cooked through. Serve over basmati rice.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Chicken",
+                    "Potatoes",
+                    "Onion",
+                    "Canned tomatoes",
+                    "Coconut milk",
+                    "Indian spices",
+                    "Basmati rice"
+                ]
+            },
+            {
+                "name": "Beef Stew",
+                "description": "A hearty and comforting stew made with chunks of beef, carrots, potatoes, and aromatic herbs. Served with crusty bread.",
+                "image": "https://th.bing.com/th/id/R.3a5f64458e1183e8b0fdf06d5591279f?rik=qoW6qI7CgipGlQ&pid=ImgRaw&r=0",
+                "cooking_method": "Brown beef in a large pot, then add onions, garlic, carrots, and potatoes. Pour in beef broth and add herbs like thyme and rosemary. Simmer until vegetables are tender and beef is cooked through. Serve with crusty bread.",
                 "rating": 4.6,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Beef",
+                    "Carrots",
+                    "Potatoes",
+                    "Onion",
                     "Garlic",
-                    "Parmesan Cheese"
+                    "Beef broth",
+                    "Thyme",
+                    "Rosemary",
+                    "Crusty bread"
                 ]
             }
         ]
@@ -148,17 +184,55 @@
         "Likes": 300,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Spicy Thai Chicken Curry",
+                "description": "This flavorful curry features tender chicken in a rich and spicy sauce made with coconut milk, red curry paste, and fresh herbs. Served over steamed rice, this dish is sure to become a family favorite.",
+                "image": "https://th.bing.com/th?id=OSK.fd88ca24a6e62875e1556e130a820089&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "In a large pot, sauté chicken until browned on all sides. Add chopped onions, garlic, and ginger and sauté for a few more minutes. Stir in red curry paste and coconut milk and bring to a simmer. Add chopped vegetables and simmer until the chicken is cooked through and the vegetables are tender. Serve over rice.",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Chicken",
+                    "Red Curry Paste",
+                    "Coconut Milk",
+                    "Onions",
                     "Garlic",
-                    "Parmesan Cheese"
+                    "Ginger",
+                    "Vegetables",
+                    "Rice"
+                ]
+            },
+            {
+                "name": "Homemade Pizza",
+                "description": "Making pizza from scratch is easier than you think! This recipe features a crispy homemade crust and your choice of toppings, from classic pepperoni to gourmet options like prosciutto and arugula.",
+                "image": "https://th.bing.com/th?id=AMMS_2cb444743a5ccb1c5cdf399881104a52&w=213&h=142&rs=2&qlt=18&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Make the pizza dough by combining flour, yeast, salt, sugar, and warm water in a bowl. Knead the dough until smooth, then let it rise for an hour. Preheat the oven and roll out the dough on a floured surface. Add your desired toppings and bake for 10-15 minutes, or until the crust is golden and crispy.",
+                "rating": 4.4,
+                "ingredients": [
+                    "Flour",
+                    "Yeast",
+                    "Salt",
+                    "Sugar",
+                    "Warm Water",
+                    "Tomato Sauce",
+                    "Cheese",
+                    "Pepperoni",
+                    "Vegetables",
+                    "Meat"
+                ]
+            },
+            {
+                "name": "Lemon Garlic Shrimp",
+                "description": "This quick and easy recipe features plump shrimp in a tangy lemon garlic sauce. Serve over pasta or with crusty bread for a simple yet satisfying meal.",
+                "image": "https://th.bing.com/th?id=OSK.ec68464c6cb41303afbf599425a710fd&w=213&h=213&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "In a large skillet, sauté shrimp until pink and cooked through. Remove from the pan and set aside. In the same pan, sauté minced garlic until fragrant. Add chicken broth, lemon juice, and butter, and stir until the butter is melted. Return the shrimp to the pan and toss to coat in the sauce.",
+                "rating": 4.7,
+                "ingredients": [
+                    "Shrimp",
+                    "Garlic",
+                    "Chicken Broth",
+                    "Lemon Juice",
+                    "Butter",
+                    "Pasta",
+                    "Bread"
                 ]
             }
         ]
@@ -172,17 +246,56 @@
         "Likes": 1500,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Spicy Chicken Fajitas",
+                "description": "These chicken fajitas are packed with flavor and spice! Marinated chicken, bell peppers, and onions are cooked to perfection and served with warm tortillas and all the fixings.",
+                "image": "https://th.bing.com/th?id=OSK.e82b9a4eb882b6a8b02320684744d709&w=213&h=213&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Marinate chicken in a mixture of lime juice, chili powder, cumin, and garlic. Sear chicken in a hot pan until cooked through. Add sliced bell peppers and onions to the pan and cook until softened. Serve with warm tortillas, salsa, guacamole, and sour cream.",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Chicken Breast",
+                    "Lime Juice",
+                    "Chili Powder",
+                    "Cumin",
                     "Garlic",
-                    "Parmesan Cheese"
+                    "Bell Peppers",
+                    "Onions",
+                    "Tortillas",
+                    "Salsa",
+                    "Guacamole",
+                    "Sour Cream"
+                ]
+            },
+            {
+                "name": "Roasted Vegetable Quinoa Bowl",
+                "description": "This hearty and healthy bowl is packed with roasted vegetables, protein-rich quinoa, and a creamy tahini dressing. It's a delicious and satisfying meal that's perfect for any time of day.",
+                "image": "https://th.bing.com/th?id=OSK.ea90b119f5396fdd190fe241cf9222aa&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Toss chopped vegetables in olive oil and seasonings, then roast in the oven until tender. Cook quinoa according to package instructions. For the dressing, whisk together tahini, lemon juice, garlic, and water. Assemble bowls with quinoa, roasted vegetables, and the tahini dressing.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Vegetables (such as sweet potato, broccoli, and bell pepper)",
+                    "Olive Oil",
+                    "Seasonings",
+                    "Quinoa",
+                    "Tahini",
+                    "Lemon Juice",
+                    "Garlic",
+                    "Water"
+                ]
+            },
+            {
+                "name": "Creamy Tomato Soup",
+                "description": "This classic soup is made with fresh tomatoes, cream, and herbs for a comforting and delicious meal. Serve with crusty bread for dipping.",
+                "image": "https://th.bing.com/th?id=OSK.d60bdd2434051a81eba6b6c91747a010&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Sauté onion and garlic in butter until soft. Add chopped fresh tomatoes and herbs, and cook until the tomatoes have broken down. Puree the mixture in a blender until smooth. Return the soup to the pot and stir in cream. Serve hot with crusty bread.",
+                "rating": 4.7,
+                "ingredients": [
+                    "Fresh Tomatoes",
+                    "Onion",
+                    "Garlic",
+                    "Butter",
+                    "Herbs (such as basil and thyme)",
+                    "Cream",
+                    "Crusty Bread"
                 ]
             }
         ]
