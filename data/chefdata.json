@@ -309,17 +309,58 @@
         "Likes": 400,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Roasted Vegetable Quinoa Salad",
+                "description": "This hearty salad is packed with nutritious roasted vegetables and protein-rich quinoa. It's perfect for a healthy lunch or dinner and can be easily customized to include your favorite veggies.",
+                "image": "https://th.bing.com/th?id=OSK.03c83329855035d81a0c338e8838e006&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Preheat the oven to 400°F. Toss sliced vegetables with olive oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes. Meanwhile, cook quinoa according to package instructions. Mix together the cooked quinoa and roasted vegetables in a large bowl.",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Quinoa",
+                    "Bell peppers",
+                    "Zucchini",
+                    "Red onion",
+                    "Cherry tomatoes",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Crispy Baked Chicken Wings",
+                "description": "These baked chicken wings are coated in a crispy breadcrumb mixture and baked to perfection. They're a healthier alternative to fried wings and make a great appetizer or snack.",
+                "image": "https://th.bing.com/th?id=OSK.16c7863241da61f24f3ec8143d2bea05&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Preheat the oven to 400°F. Mix together breadcrumbs, Parmesan cheese, and seasonings. Dip chicken wings in melted butter and then coat in breadcrumb mixture. Place on a baking sheet and bake for 30-35 minutes, flipping halfway through.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Chicken wings",
+                    "Breadcrumbs",
+                    "Parmesan cheese",
+                    "Garlic powder",
+                    "Paprika",
+                    "Butter",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Spicy Black Bean Soup",
+                "description": "This vegan soup is loaded with flavor and protein from black beans and veggies. It's easy to make and perfect for a cozy dinner on a chilly evening.",
+                "image": "https://th.bing.com/th/id/OIP.3vtodugkVLtttVSwl6EG7gHaLH?pid=ImgDet&rs=1",
+                "cooking_method": "Heat oil in a large pot and sauté onions, garlic, and spices. Add black beans, broth, and vegetables and bring to a boil. Simmer for 20-30 minutes, then blend until smooth. Serve hot with toppings of your choice.",
+                "rating": 4.7,
+                "ingredients": [
+                    "Black beans",
+                    "Vegetable broth",
+                    "Onion",
                     "Garlic",
-                    "Parmesan Cheese"
+                    "Red bell pepper",
+                    "Carrots",
+                    "Jalapeño pepper",
+                    "Cumin",
+                    "Chili powder",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
                 ]
             }
         ]
@@ -333,19 +374,62 @@
         "Likes": 3000,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Roasted Garlic and Tomato Soup",
+                "description": "This comforting soup is perfect for chilly nights. Roasted garlic adds depth of flavor to the tomatoes and the soup is topped with croutons and fresh basil.",
+                "image": "https://th.bing.com/th?id=OSK.e4b676cd72e168436819a6b89947150a&w=213&h=213&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Preheat oven to 400°F. Cut off the top of the garlic head and drizzle with olive oil. Wrap in foil and roast for 30 minutes. In a large pot, sauté onions until translucent. Add roasted tomatoes, vegetable broth, and roasted garlic. Simmer for 20 minutes. Purée the soup and add salt and pepper to taste.",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
-                    "Garlic",
-                    "Parmesan Cheese"
+                  "Tomatoes",
+                  "Garlic",
+                  "Onion",
+                  "Vegetable broth",
+                  "Basil",
+                  "Croutons"
                 ]
-            }
+              },
+              {
+                "name": "Spicy Korean Fried Chicken",
+                "description": "This Korean-style fried chicken is crispy on the outside and juicy on the inside, with a spicy kick. Serve with rice and pickled vegetables for a satisfying meal.",
+                "image": "https://th.bing.com/th?id=OSK.cec4121e2dc0ce3f25e48e52fdc9ce8f&w=213&h=213&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Mix together flour, cornstarch, baking powder, salt, and pepper. Coat chicken pieces in the mixture and deep-fry until crispy. In a separate pan, sauté garlic and ginger, then add gochujang, soy sauce, honey, and rice vinegar. Add fried chicken to the sauce and toss until coated. Serve with rice and pickled vegetables.",
+                "rating": 4.9,
+                "ingredients": [
+                  "Chicken",
+                  "Flour",
+                  "Cornstarch",
+                  "Baking powder",
+                  "Salt",
+                  "Pepper",
+                  "Garlic",
+                  "Ginger",
+                  "Gochujang",
+                  "Soy sauce",
+                  "Honey",
+                  "Rice vinegar"
+                ]
+              },
+              {
+                "name": "Lentil Soup",
+                "description": "This hearty soup is packed with protein and fiber from the lentils and vegetables. Perfect for a cozy weeknight meal.",
+                "image": "https://th.bing.com/th?id=OSK.5d7b03f0988fb4ce94807a1cb19bdf27&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Sauté onions, carrots, and celery until softened. Add lentils, vegetable broth, diced tomatoes, garlic, and spices. Simmer for 25-30 minutes, until the lentils are tender. Serve with a dollop of yogurt and a sprinkle of fresh parsley.",
+                "rating": 4.5,
+                "ingredients": [
+                  "Lentils",
+                  "Vegetable broth",
+                  "Tomatoes",
+                  "Onion",
+                  "Carrots",
+                  "Celery",
+                  "Garlic",
+                  "Cumin",
+                  "Coriander",
+                  "Turmeric",
+                  "Yogurt",
+                  "Parsley"
+                ]
+              }
         ]
     },
     {
@@ -357,17 +441,48 @@
         "Likes": 100,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Spicy Sausage Rigatoni",
+                "description": "This hearty pasta dish features rigatoni tossed with spicy Italian sausage, garlic, and diced tomatoes. Top with freshly grated Parmesan cheese for a satisfying dinner that packs a punch.",
+                "image": "https://th.bing.com/th?id=OSK.1af581c0138fa5bbf32d7d80e889928d&w=213&h=213&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Rigatoni",
+                    "Italian Sausage",
                     "Garlic",
+                    "Diced Tomatoes",
+                    "Red Pepper Flakes",
                     "Parmesan Cheese"
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "description": "This flavorful chicken curry is made with a blend of aromatic spices, including cumin, coriander, and turmeric. Simmered with tender chicken and served over rice, this dish is perfect for a cozy night in.",
+                "image": "https://th.bing.com/th?id=OSK.479601bd231b5b525de8caa5f05cdb0b&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "In a large pot or Dutch oven, cook diced onions until softened. Add garlic, ginger, and spices, and cook until fragrant. Add diced chicken and cook until browned. Stir in coconut milk and simmer for 20-25 minutes. Serve over rice.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Chicken",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Cumin",
+                    "Coriander",
+                    "Turmeric",
+                    "Coconut Milk",
+                    "Rice"
+                ]
+            },
+            {
+                "name": "Roasted Brussel Sprouts",
+                "description": "These crispy roasted brussel sprouts are a delicious and healthy side dish. Tossed with olive oil and seasoned with salt and pepper, they are a flavorful addition to any meal.",
+                "image": "https://th.bing.com/th?id=OSK.9128fcdf8dab3cea35f314e28cf995ed&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Preheat oven to 400°F. Trim and halve brussel sprouts, then toss with olive oil, salt, and pepper. Spread in a single layer on a baking sheet and roast for 20-25 minutes, or until crispy and tender.",
+                "rating": 4.3,
+                "ingredients": [
+                    "Brussel Sprouts",
+                    "Olive Oil",
+                    "Salt",
+                    "Pepper"
                 ]
             }
         ]
@@ -381,17 +496,63 @@
         "Likes": 800,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+                "name": "Lemon Garlic Shrimp",
+                "description": "A simple and flavorful shrimp dish that can be prepared in minutes. The tangy lemon and garlic combination is a crowd pleaser.",
+                "image": "https://th.bing.com/th?id=OSK.25acdc35411a7f96960b33d30b45b9af&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Heat olive oil in a pan, add minced garlic and cook for a minute. Add the shrimp and cook until pink. Squeeze lemon juice on top and garnish with chopped parsley.",
+                "rating": 4.8,
+                "ingredients": [
+                    "Shrimp",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon",
+                    "Parsley"
+                ]
+            },
+            {
+                "name": "Vegetable Curry",
+                "description": "A hearty and flavorful vegetarian curry that is packed with vegetables and spices. This recipe is perfect for a weeknight dinner and can be easily customized to suit your preferences.",
+                "image": "https://th.bing.com/th?id=OSK.ececea884c3da81d83695f4edf0495be&w=213&h=292&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Heat oil in a pan, add onion, garlic and ginger and cook until fragrant. Add your choice of vegetables and curry powder, cook until tender. Stir in coconut milk and serve over rice.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Mixed Vegetables",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Curry Powder",
+                    "Coconut Milk"
+                ]
+            },
+            {
+                "name": "Roasted Chicken with Vegetables",
+                "description": "A classic roasted chicken with a twist. This recipe is easy to make and is a perfect one-pan meal that includes juicy roasted chicken and flavorful vegetables.",
+                "image": "https://th.bing.com/th?id=AMMS_1145e8afae14d94de5a5c73dbb655f95&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Season the chicken with salt, pepper and herbs. Roast in the oven with a selection of your favorite vegetables. Serve with a side of mashed potatoes or crusty bread.",
+                "rating": 4.7,
+                "ingredients": [
+                    "Whole Chicken",
+                    "Carrots",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Olive Oil",
+                    "Herbs"
+                ]
+            },
+            {
+                "name": "Beef Stroganoff",
+                "description": "A creamy and flavorful beef dish that is perfect for a comforting dinner. This recipe is easy to make and can be served with a side of rice or pasta.",
+                "image": "https://th.bing.com/th?id=OSK.604b1d0b988d7db77f93e2a4ed0b829b&w=213&h=213&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Cook beef strips in a pan until browned. Add onion and mushrooms and cook until softened. Stir in flour, beef broth and sour cream. Serve hot.",
                 "rating": 4.6,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
-                    "Garlic",
-                    "Parmesan Cheese"
+                    "Beef Strips",
+                    "Onion",
+                    "Mushrooms",
+                    "Flour",
+                    "Beef Broth",
+                    "Sour Cream"
                 ]
             }
         ]
@@ -405,17 +566,51 @@
         "Likes": 200,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Spaghetti Carbonara",
+                "description": "A classic Italian pasta dish made with spaghetti, pancetta or bacon, eggs, and Parmesan cheese. The heat from the cooked pasta cooks the eggs to create a creamy sauce. Simple and delicious!",
+                "image": "https://th.bing.com/th?id=OSK.70ea686b937f2f6c07b94d92dcc74318&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Cook the spaghetti according to package instructions. While the pasta is cooking, fry the pancetta or bacon in a large skillet until crispy. In a bowl, beat the eggs and Parmesan cheese together. When the spaghetti is cooked, drain it and add it to the skillet with the pancetta. Remove the skillet from heat, and add the egg and cheese mixture to the pasta, stirring quickly to combine. The heat from the pasta will cook the eggs and create a creamy sauce. Serve immediately with additional Parmesan cheese and black pepper.",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Spaghetti",
+                    "Pancetta or bacon",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper"
+                ]
+            },
+            {
+                "name": "Thai Red Curry with Vegetables",
+                "description": "A flavorful Thai curry made with coconut milk, red curry paste, and a variety of vegetables such as bell peppers, carrots, and broccoli. Served over rice, this dish is comforting and satisfying.",
+                "image": "https://th.bing.com/th/id/OIP.Ka90JM_8yD7leQz9F_IE_AAAAA?pid=ImgDet&rs=1",
+                "cooking_method": "In a large pot or Dutch oven, sauté onions in oil until soft. Add the curry paste and stir for a minute. Add coconut milk, vegetable broth, and vegetables. Bring to a boil and simmer until the vegetables are cooked. Season with fish sauce and brown sugar. Serve with rice.",
+                "rating": 4.7,
+                "ingredients": [
+                    "Onion",
+                    "Oil",
+                    "Red curry paste",
+                    "Coconut milk",
+                    "Vegetable broth",
+                    "Carrots",
+                    "Bell peppers",
+                    "Broccoli",
+                    "Fish sauce",
+                    "Brown sugar",
+                    "Rice"
+                ]
+            },
+            {
+                "name": "Lemon Garlic Shrimp",
+                "description": "A simple and flavorful shrimp dish that can be prepared in minutes. The tangy lemon and garlic combination is a crowd pleaser.",
+                "image": "https://th.bing.com/th?id=OSK.25acdc35411a7f96960b33d30b45b9af&w=213&h=319&rs=2&qlt=80&o=6&cdv=1&pid=16.1",
+                "cooking_method": "Heat olive oil in a pan, add minced garlic and cook for a minute. Add the shrimp and cook until pink. Squeeze lemon juice on top and garnish with chopped parsley.",
+                "rating": 4.8,
+                "ingredients": [
+                    "Shrimp",
+                    "Olive oil",
                     "Garlic",
-                    "Parmesan Cheese"
+                    "Lemon",
+                    "Parsley"
                 ]
             }
         ]
