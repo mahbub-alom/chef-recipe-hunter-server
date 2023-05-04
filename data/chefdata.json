@@ -4,6 +4,7 @@
         "Picture": "https://th.bing.com/th/id/OIP.Dbxakgf8b9bi6Wvuyo4aJAHaJo?pid=ImgDet&rs=1",
         "Name": "John Doe",
         "Experience": 10,
+        "description":"John Doe a seasoned culinary professional with over 10 years of experience in the industry. Originally from France, Chef Alex trained in some of the most prestigious culinary schools in Europe and worked in some of the finest restaurants in Paris before moving to the United States to further his career",
         "recipes": [
             {
                 "name": "Pesto pasta with cherry tomatoes",
@@ -59,12 +60,13 @@
         ],
         "Likes": 1000
     },
-    {
+    {      
         "id": 2,
         "Picture": "https://th.bing.com/th/id/OIP.wzUO56s36R5BZtMJx2LTNwHaKJ?pid=ImgDet&rs=1",
         "Name": "Jane Smith",
         "Experience": 8,
         "Recipes": 30,
+        "description":"Jane Smith is a highly skilled culinary professional who specializes in the preparation of food. A chef's responsibilities typically include menu planning, food preparation, cooking, plating, and presentation. ",
         "Likes": 500,
         "recipes": [
             {
@@ -121,6 +123,7 @@
         "Name": "Peter Lee",
         "Experience": 15,
         "Recipes": 70,
+        "description":"Peter Lee is a highly skilled culinary professional who specializes in preparing and presenting food that is not only delicious but also visually appealing. Chefs work in a variety of settings, including restaurants, hotels, and catering companies",
         "Likes": 2000,
         "recipes": [
             {
@@ -182,6 +185,7 @@
         "Experience": 5,
         "Recipes": 20,
         "Likes": 300,
+        "description":"Chef Linda Chen is a rising star in the culinary world. With a passion for creative and innovative cuisine, she has quickly made a name for herself as a chef to watch. Sarah's love of cooking started at a young age, when she would experiment with different flavors and ingredients in her family's kitchen.",
         "recipes": [
             {
                 "name": "Spicy Thai Chicken Curry",
@@ -244,6 +248,7 @@
         "Experience": 12,
         "Recipes": 60,
         "Likes": 1500,
+        "description":"As a chef, Mike Brown is passionate about creating flavorful dishes that showcase fresh, locally sourced ingredients. With over 15 years of experience in the culinary industry, he has honed his skills in various high-end restaurants and catering companies. John's approach to cooking is rooted in a deep respect for the ingredients he works with,",
         "recipes": [
             {
                 "name": "Spicy Chicken Fajitas",
@@ -307,6 +312,7 @@
         "Experience": 7,
         "Recipes": 25,
         "Likes": 400,
+        "description":"A chef is a highly skilled culinary professional who is responsible for preparing and creating meals in a restaurant, hotel, or other food service establishment. A chef's role includes designing menus, sourcing high-quality ingredients,",
         "recipes": [
             {
                 "name": "Roasted Vegetable Quinoa Salad",
@@ -372,6 +378,7 @@
         "Experience": 20,
         "Recipes": 100,
         "Likes": 3000,
+        "description":"David Wu is a rising star in the culinary world. Her passion for food started at a young age, watching her grandmother cook traditional southern dishes. After completing her culinary training at the Culinary Institute of America",
         "recipes": [
             {
                 "name": "Roasted Garlic and Tomato Soup",
@@ -439,6 +446,7 @@
         "Experience": 3,
         "Recipes": 10,
         "Likes": 100,
+        "description":"hef Daniel is a passionate and skilled culinary expert with over 15 years of experience in the industry. He has trained and worked in some of the most prestigious restaurants around the world",
         "recipes": [
             {
                 "name": "Spicy Sausage Rigatoni",
@@ -494,6 +502,7 @@
         "Experience": 9,
         "Recipes": 40,
         "Likes": 800,
+        "description":"Tom Lee a seasoned culinary professional with over 20 years of experience in the restaurant industry. Born and raised in New Orleans, he developed a deep passion for food and cooking at a young age.",
         "recipes": [
             {
                 "name": "Lemon Garlic Shrimp",
@@ -564,6 +573,7 @@
         "Experience": 4,
         "Recipes": 15,
         "Likes": 200,
+        "description":"Jessica Park is a highly skilled culinary professional with extensive experience in Mexican cuisine. Born and raised in Mexico, she was exposed to a rich culinary heritage from a young age and went on to pursue formal training in the culinary arts",
         "recipes": [
             {
                 "name": "Spaghetti Carbonara",
