@@ -4,7 +4,6 @@ const cors = require('cors')
 const port = process.env.PORT || 5000;
 
 const chefData = require('./data/chefdata.json')
-// const chefSingleData = require('./data/chefSingleData.json')
 
 app.use(cors())
 

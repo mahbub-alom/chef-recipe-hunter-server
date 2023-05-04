@@ -18,6 +18,43 @@
                     "Garlic",
                     "Parmesan Cheese"
                 ]
+            },
+            {
+                "name": "Chicken Fajitas",
+                "description": "This flavorful Tex-Mex dish is made with tender strips of chicken breast, sautéed peppers and onions, and served with warm tortillas and all the fixings.",
+                "image": "https://bing.com/th?id=OSK.67a6798909aa541cfbe55b4ec52b043f",
+                "cooking_method": "Heat a large skillet over medium-high heat. Add chicken, peppers, and onions to the skillet and cook until the chicken is cooked through and the vegetables are tender. Serve with warm tortillas, sour cream, guacamole, and salsa.",
+                "rating": 4.8,
+                "ingredients": [
+                    "Boneless chicken breast",
+                    "Bell peppers",
+                    "Onion",
+                    "Tortillas",
+                    "Sour cream",
+                    "Guacamole",
+                    "Salsa"
+                ]
+            },
+            {
+                "name": "Beef Stew",
+                "description": "This hearty beef stew is made with tender chunks of beef, carrots, potatoes, and onions, all simmered in a rich and flavorful broth until everything is tender and delicious.",
+                "image": "https://bing.com/th?id=OSK.6ee15e89df53a2fb0e117d794ef6a09c",
+                "cooking_method": "Season beef with salt and pepper, then brown in a large pot. Add onion, garlic, and vegetables to the pot, then pour in broth, tomato paste, and spices. Bring to a simmer and cook until the beef and vegetables are tender.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Beef stew meat",
+                    "Carrots",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Beef broth",
+                    "Tomato paste",
+                    "Bay leaves",
+                    "Thyme",
+                    "Parsley",
+                    "Salt",
+                    "Pepper"
+                ]
             }
         ],
         "Likes": 1000
@@ -31,17 +68,49 @@
         "Likes": 500,
         "recipes": [
             {
-                "name": "Pesto pasta with cherry tomatoes",
-                "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-                "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-                "cooking_method": "Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-                "rating": 4.6,
+                "name": "Spicy Shrimp Stir-Fry",
+                "description": "This quick and easy stir-fry is packed with flavor, thanks to a spicy sauce made with soy sauce, sriracha, and garlic. The shrimp and vegetables cook up in minutes, making it the perfect dish for a busy weeknight.",
+                "image": "https://www.eatwell101.com/wp-content/uploads/2018/09/Shrimp-Stir-Fry-Recipe.jpg",
+                "cooking_method": "Heat oil in a wok or large skillet over high heat. Add shrimp and stir-fry for 2-3 minutes until pink. Remove from pan and set aside. Add garlic and vegetables to the pan and stir-fry for 2-3 minutes. Return shrimp to the pan and add the sauce. Stir-fry for an additional minute or until everything is coated in the sauce.",
+                "rating": 4.8,
                 "ingredients": [
-                    "Pasta",
-                    "Pesto Sauce",
-                    "Cherry Tomatoes",
+                    "Shrimp",
+                    "Vegetables",
                     "Garlic",
-                    "Parmesan Cheese"
+                    "Soy Sauce",
+                    "Sriracha"
+                ]
+            },
+            {
+                "name": "Chicken and Broccoli Casserole",
+                "description": "This comforting casserole is perfect for a chilly night. Tender chicken and broccoli are smothered in a creamy cheese sauce and baked until bubbly and golden.",
+                "image": "https://www.spendwithpennies.com/wp-content/uploads/2019/08/Chicken-Broccoli-Casserole-SpendWithPennies-7.jpg",
+                "cooking_method": "Cook chicken in a skillet until no longer pink. Add broccoli and cook until tender. In a separate saucepan, melt butter and whisk in flour. Gradually stir in milk until sauce thickens. Stir in cheese until melted. Combine chicken, broccoli, and sauce in a casserole dish and bake at 375 degrees F for 20-25 minutes.",
+                "rating": 4.5,
+                "ingredients": [
+                    "Chicken",
+                    "Broccoli",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar Cheese"
+                ]
+            },
+            {
+                "name": "Beef and Vegetable Stir-Fry",
+                "description": "This flavorful stir-fry is a great way to get your daily dose of veggies. Tender strips of beef are cooked with colorful bell peppers, onions, and mushrooms in a savory sauce.",
+                "image": "https://www.simplyrecipes.com/wp-content/uploads/2014/07/beef-vegetable-stir-fry-horiz-a-1800.jpg",
+                "cooking_method": "Whisk together soy sauce, honey, ginger, and garlic in a bowl. Heat oil in a wok or large skillet over high heat. Add beef and stir-fry for 2-3 minutes until browned. Remove from pan and set aside. Add vegetables to the pan and stir-fry for 2-3 minutes. Return beef to the pan and add the sauce. Stir-fry for an additional minute or until everything is coated in the sauce.",
+                "rating": 4.7,
+                "ingredients": [
+                    "Beef",
+                    "Bell Peppers",
+                    "Onion",
+                    "Mushrooms",
+                    "Soy Sauce",
+                    "Honey",
+                    "Ginger",
+                    "Garlic"
                 ]
             }
         ]
